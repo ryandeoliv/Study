@@ -5,7 +5,7 @@ const server = createServer((req, res) => {
         'Content-Type': 'text/plain; charset=utf-8'
     })
 
-    res.end('Servidor Node.js funcionando!')
+    res.end('te amo maíraaaa!')
 })
 
 const port = Number(process.env.PORT || 3000)
